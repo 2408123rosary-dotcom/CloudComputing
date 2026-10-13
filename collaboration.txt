@@ -1,1 +1,2 @@
 Git helps developers track chnages and collaborate projects
+GitHub allows developers to store repositories remotely abd collaborate
